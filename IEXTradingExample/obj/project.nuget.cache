@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmeE2TrnOxzO5ChKFDq+nLJjXYS8eajMVOfiuG44QGjQZgPkh3q7ojs8lzfoWtxmnDoDmp31OZKYVukNn56jEg==",
+  "success": true,
+  "projectFilePath": "C:\\Trading\\IEXTradingExample\\IEXTradingExample\\IEXTradingExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vamsee.Mudradi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

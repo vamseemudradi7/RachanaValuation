@@ -1,0 +1,9 @@
+C:\Trading\IEXTradingExample\Common_Operations\bin\Debug\netcoreapp3.1\Common_Operations.deps.json
+C:\Trading\IEXTradingExample\Common_Operations\bin\Debug\netcoreapp3.1\Common_Operations.dll
+C:\Trading\IEXTradingExample\Common_Operations\bin\Debug\netcoreapp3.1\Common_Operations.pdb
+C:\Trading\IEXTradingExample\Common_Operations\obj\Debug\netcoreapp3.1\Common_Operations.AssemblyInfoInputs.cache
+C:\Trading\IEXTradingExample\Common_Operations\obj\Debug\netcoreapp3.1\Common_Operations.AssemblyInfo.cs
+C:\Trading\IEXTradingExample\Common_Operations\obj\Debug\netcoreapp3.1\Common_Operations.dll
+C:\Trading\IEXTradingExample\Common_Operations\obj\Debug\netcoreapp3.1\Common_Operations.pdb
+C:\Trading\IEXTradingExample\Common_Operations\obj\Debug\netcoreapp3.1\Common_Operations.csprojAssemblyReference.cache
+C:\Trading\IEXTradingExample\Common_Operations\obj\Debug\netcoreapp3.1\Common_Operations.csproj.CoreCompileInputs.cache
