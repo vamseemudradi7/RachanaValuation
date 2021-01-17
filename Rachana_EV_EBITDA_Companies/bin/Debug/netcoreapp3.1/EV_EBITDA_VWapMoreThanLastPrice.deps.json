@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "EV_EBITDA_VWapMoreThanLastPrice/1.0.0": {
+      "EV_EBITDA_VwapMoreThanLastPrice/1.0.0": {
         "dependencies": {
           "Common_Operations": "1.0.0"
         },
         "runtime": {
-          "EV_EBITDA_VWapMoreThanLastPrice.dll": {}
+          "EV_EBITDA_VwapMoreThanLastPrice.dll": {}
         }
       },
       "ClosedXML/0.95.4": {
@@ -1139,7 +1139,7 @@
     }
   },
   "libraries": {
-    "EV_EBITDA_VWapMoreThanLastPrice/1.0.0": {
+    "EV_EBITDA_VwapMoreThanLastPrice/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

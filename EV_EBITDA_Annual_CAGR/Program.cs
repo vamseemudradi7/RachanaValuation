@@ -20,7 +20,9 @@ namespace BhavCopy
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             WebClient myWebClient = new WebClient();
             var i = 0;
-
+            var path = @"C:\Trading\BhavCopy\Rachana\EVEBITDA";
+            if (!Directory.Exists(path))
+                Directory.CreateDirectory(path);
             myWebClient.DownloadFile("https://archives.nseindia.com/content/equities/Companies_proposed_to_be_delisted.xlsx", @"C:\Trading\BhavCopy\Rachana\EVEBITDA\ToBeDelistedStockSymbols.xlsx");
             myWebClient.DownloadFile("https://archives.nseindia.com/content/equities/delisted.xlsx", @"C:\Trading\BhavCopy\Rachana\EVEBITDA\DelistedStockSymbols.xlsx");
             myWebClient.DownloadFile("https://www1.nseindia.com/content/equities/suspension.xls", @"C:\Trading\BhavCopy\Rachana\EVEBITDA\SuspendedStockSymbols.xls");
